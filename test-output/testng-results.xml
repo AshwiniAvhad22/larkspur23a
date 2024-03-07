@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-04T14:53:00 IST" name="Default suite" finished-at="2024-03-04T14:53:15 IST" duration-ms="14571">
+    <groups>
+    </groups>
+    <test started-at="2024-03-04T14:53:00 IST" name="Default test" finished-at="2024-03-04T14:53:15 IST" duration-ms="14571">
+      <class name="com.trinity.PropertiesTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.trinity.PropertiesTestCases@942a29c]" started-at="2024-03-04T14:53:00 IST" name="setup" finished-at="2024-03-04T14:53:11 IST" duration-ms="10579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLastNameIsrequiredUsingPOM()[pri:0, instance:com.trinity.PropertiesTestCases@942a29c]" started-at="2024-03-04T14:53:11 IST" name="VerifyLastNameIsrequiredUsingPOM" finished-at="2024-03-04T14:53:14 IST" duration-ms="3506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLastNameIsrequiredUsingPOM -->
+        <test-method is-config="true" signature="teatDown()[pri:0, instance:com.trinity.PropertiesTestCases@942a29c]" started-at="2024-03-04T14:53:14 IST" name="teatDown" finished-at="2024-03-04T14:53:15 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+      </class> <!-- com.trinity.PropertiesTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
